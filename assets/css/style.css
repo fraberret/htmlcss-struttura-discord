@@ -66,9 +66,13 @@
 
 .pink{
     background-color: pink;
-    width: 25%;
+    width: 35%;
 }
 .blue{
     background-color: rgb(0, 132, 255);
-    width: 75%;
+    width: 65%;
+}
+
+.grey_section{
+    background-color: gray;
 }
