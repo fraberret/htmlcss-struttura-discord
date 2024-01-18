@@ -102,11 +102,37 @@
     background-color: rgb(31, 132, 162);
     width: 15%;
     height: 370px;
-    border: 2px dotted wi;
+    border: 2px dotted white;
 }
 
 
 #red{
     width: 40%;
     background-color: red;
+}
+
+#footer_bar{
+    height: 80px;
+    background-color: rgb(38, 36, 36);
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    padding: 0px 200px;
+    border-top:  2px solid white;
+    border-bottom:  2px solid white;
+}
+#footer_contenitor{
+    height: 60px;
+    background-color: aquamarine;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer_button{
+    width: 60px;
+    height: 20px;
+    background-color: orange;
+    text-align: center;
 }
